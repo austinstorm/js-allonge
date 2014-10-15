@@ -55,7 +55,9 @@ Over the next 7 weeks, we'll be building either a javascript library or applicat
 - <a name="october_9"> </a>For October 9:
     - Javascript Allonge Reading - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
     - [Discussion questions and extra reading](extra/prelude.md)
-- <a name="october_16"> </a>For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) through [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
+- <a name="october_16"> </a>For October 16:
+    - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) through [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
+    - [Discussion questions and extra reading](extra/1-3.md)
 - <a name="october_23"> </a>For October 23 -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
 - <a name="october_30"> </a>For October 30 -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
 - <a name="october_6"> </a>For October 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) through [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
@@ -63,15 +65,3 @@ Over the next 7 weeks, we'll be building either a javascript library or applicat
 - <a name="november_20"> </a>For November 20, TBD
 
 We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll be meeting at the MosCoWork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/).
-
-#### Participants
-
-Here's everyone who has confirmed with me that they'll be there. If you don't see your name here, and you think it should be, drop me an email!
-
-- John Feusi
-- Chris Walker
-- Austin Storm
-- Jon Burnett
-- James Purdy
-- Rebekah Kim
-- Michael Hewitt
